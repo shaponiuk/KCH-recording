@@ -1,9 +1,0 @@
-C:\Users\SPLSZH\Programming\KCH-recording\RecordingLibrary\bin\Debug\netstandard2.0\RecordingLibrary.deps.json
-C:\Users\SPLSZH\Programming\KCH-recording\RecordingLibrary\bin\Debug\netstandard2.0\RecordingLibrary.dll
-C:\Users\SPLSZH\Programming\KCH-recording\RecordingLibrary\bin\Debug\netstandard2.0\RecordingLibrary.pdb
-C:\Users\SPLSZH\Programming\KCH-recording\RecordingLibrary\obj\Debug\netstandard2.0\RecordingLibrary.csprojAssemblyReference.cache
-C:\Users\SPLSZH\Programming\KCH-recording\RecordingLibrary\obj\Debug\netstandard2.0\RecordingLibrary.AssemblyInfoInputs.cache
-C:\Users\SPLSZH\Programming\KCH-recording\RecordingLibrary\obj\Debug\netstandard2.0\RecordingLibrary.AssemblyInfo.cs
-C:\Users\SPLSZH\Programming\KCH-recording\RecordingLibrary\obj\Debug\netstandard2.0\RecordingLibrary.csproj.CoreCompileInputs.cache
-C:\Users\SPLSZH\Programming\KCH-recording\RecordingLibrary\obj\Debug\netstandard2.0\RecordingLibrary.dll
-C:\Users\SPLSZH\Programming\KCH-recording\RecordingLibrary\obj\Debug\netstandard2.0\RecordingLibrary.pdb
