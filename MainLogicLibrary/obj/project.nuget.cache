@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEFfA2QAe2+Rx7AWwm6jJx7muvSU7nqQajty8fZOW4cwZ8jVltES0jGa1NZkTfG+eXOG+eIFLoXUPlJRJHdPvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SPLSZH\\Programming\\KCH-recording\\MainLogicLibrary\\MainLogicLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SPLSZH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\SPLSZH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
