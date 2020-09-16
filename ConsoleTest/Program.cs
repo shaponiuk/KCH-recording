@@ -1,4 +1,5 @@
 ﻿using System;
+using MainLogicLibrary;
 
 namespace ConsoleTest
 {
@@ -6,7 +7,9 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var mLogic = new MainLogic();
+            mLogic.showFiles();
+            mLogic.showDirectories();
         }
     }
 }
