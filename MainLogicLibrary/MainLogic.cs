@@ -1,5 +1,6 @@
 ﻿using System;
 using FileServiceLibrary;
+using RecordingLibrary;
 
 namespace MainLogicLibrary
 {
@@ -16,6 +17,13 @@ namespace MainLogicLibrary
             var fileService = new FileService();
             foreach (string dirName in fileService.getDirectoryList()) {
                 Console.WriteLine(dirName);
+            }
+        }
+
+        public void showAudioDevices() {
+            var recObj = new Recording();
+            foreach (string deviceName in recObj.getDeviceList()) {
+                Console.WriteLine(deviceName);
             }
         }
     }

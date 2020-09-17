@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\FileServiceLibrary\FileServiceLibrary.csproj" />
+    <ProjectReference Include="..\RecordingLibrary\RecordingLibrary.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

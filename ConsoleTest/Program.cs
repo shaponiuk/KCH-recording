@@ -8,8 +8,7 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             var mLogic = new MainLogic();
-            mLogic.showFiles();
-            mLogic.showDirectories();
+            mLogic.showAudioDevices();
         }
     }
 }
