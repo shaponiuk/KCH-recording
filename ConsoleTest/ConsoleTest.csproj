@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\RecordingLibrary\RecordingLibrary.csproj" />
     <ProjectReference Include="..\MainLogicLibrary\MainLogicLibrary.csproj" />
   </ItemGroup>
 
